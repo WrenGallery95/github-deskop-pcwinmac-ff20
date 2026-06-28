@@ -1,4 +1,4 @@
-# 
+# Secure GitHub Desktop presets for Mac OS | Open Source GitHub Desktop presets for PC Windows. Featuring query-editor and database-tools — optimized for maximum performance on every platform.
 
 
 
